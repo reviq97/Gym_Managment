@@ -1,4 +1,4 @@
-package pl.nwaczykgym.nwaczykgym;
+package pl.nwaczykgym.nwaczykgym.model;
 
 public enum TypeOfUser {
     ADMIN,
